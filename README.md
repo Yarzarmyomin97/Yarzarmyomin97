@@ -95,9 +95,7 @@
 
 ![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yarzarmyomin97&theme=github_dark)
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yarzarmyomin97&theme=github_dark)
-
-![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yarzarmyomin97&theme=github_dark&utcOffset=7)
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yarzarmyomin97&theme=github_dark)&nbsp;&nbsp;&nbsp;![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yarzarmyomin97&theme=github_dark&utcOffset=7)
 
 ---
 
